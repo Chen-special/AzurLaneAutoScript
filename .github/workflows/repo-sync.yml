@@ -16,4 +16,4 @@ jobs:
         source_repo: "LmeSzinc/AzurLaneAutoScript"
         source_branch: "master"
         destination_branch: "dashboard"
-        github_token: ${{ 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 }}
+        github_token: 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
