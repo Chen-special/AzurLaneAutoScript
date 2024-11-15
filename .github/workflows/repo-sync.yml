@@ -13,7 +13,7 @@ jobs:
     - name: repo-sync
       uses: repo-sync/github-sync@v2
       with:
-        source_repo: "LmeSzinc/AzurLaneAutoScript"
+        source_repo: "https://github.com/LmeSzinc/AzurLaneAutoScript.git"
         source_branch: "master"
         destination_branch: "dashboard"
         github_token: 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
